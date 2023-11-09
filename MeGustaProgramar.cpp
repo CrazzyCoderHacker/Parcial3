@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define max_columnas 3000
+#define max_columnas 3050
 #define filas_a_procesar 50
 #define longitud_maxima_linea 1000000
 #define buffer_size 1024
