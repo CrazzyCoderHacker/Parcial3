@@ -66,7 +66,7 @@ int main() {
     }
 
     fclose(salida);
-    printf("El contenido esta en 181626.txt\n");
+    printf("Tu cosota esta justamente y directamente aqui 181626.txt\n");
 
     return 0;
 }
